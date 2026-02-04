@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/pause:3.1
+FROM arm64v8/ubuntu:22.04
