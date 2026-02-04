@@ -1,1 +1,1 @@
-FROM --platform=linux/arm64v8 ubuntu:22.04
+FROM ubuntu:22.04
